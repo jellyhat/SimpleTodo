@@ -32,11 +32,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My original PC had some issues with the emulator and I could not solve in a fast time so I finished on my laptop instead.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2019, Linda Cai
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
